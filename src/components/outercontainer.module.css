@@ -1,0 +1,5 @@
+.parentContainer {
+  margin: 0 100px;
+  display: flex;
+  justify-content: space-around;
+}

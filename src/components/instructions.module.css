@@ -1,0 +1,8 @@
+.instructions {
+  padding: 0;
+  border-radius: 5px;
+  color: grey;
+}
+.instructions ul li {
+  margin: 10px 0px;
+}
